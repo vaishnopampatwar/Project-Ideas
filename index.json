@@ -228,5 +228,13 @@
         "platform":"YouTube",
         "duration": "00:38:19",
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
+    {
+        "id": 27,
+        "projectName": "Java Simple Project",
+        "languages": "java",
+        "platform":"YouTube",
+        "duration": "02:59:25",
+        "youtubeLink": "https://www.youtube.com/watch?v=uo_yV06qx54"
     }
 ]
