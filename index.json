@@ -3,7 +3,7 @@
         "id": 1,
         "projectName": "Snake Game",
         "languages": "JavaScript",
-        "Platform":"YouTube",
+        "platform":"YouTube",
         "duration": "1:32:19",
         "youtubeLink": "https://youtu.be/2ZDnw6ifdSI"
     },
@@ -12,16 +12,16 @@
         "id": 2,
         "projectName": "Chatting App",
         "languages": "Java ,Socket Programming ,AJAX ,HTML ,CSS ,JavaScript",
-        "Platform": "YouTube",
+        "platform": "YouTube",
         "duration": "1:30:44",
         "youtubeLink": "https://www.youtube.com/watch?v=3QNBVG2yqKA"
     },
     
      {
         "id": 3,
-        "ProjectName": "Vehicle Parking Management System",
+        "projectName": "Vehicle Parking Management System",
         "languages": "PHP/MySQL",
-        "Platform": "YouTube",
+        "platform": "YouTube",
         "duration": "14:21",
         "youtubeLink": "https://youtu.be/KTzZNPzFmfs"
     },
