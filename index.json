@@ -196,8 +196,7 @@
         "platform": "YouTube",
         "duration": "1:51:55",
         "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
-    },
-    
+    },    
     {
         "id": 23,
         "projectName": "Build A Calculator With JavaScript Tutorial",
@@ -205,6 +204,14 @@
         "platform": "YouTube",
         "duration": "38:49",
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
+    {
+        "id": 24,
+        "projectName": "Make a Clock using Python",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "4:31",
+        "youtubeLink": "https://youtu.be/at7rpdT8FeI"
     }
     
 
