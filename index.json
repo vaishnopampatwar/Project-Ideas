@@ -196,6 +196,15 @@
         "platform": "YouTube",
         "duration": "1:51:55",
         "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
+    },
+     {
+        "id": 22,
+        "projectName": "Vaccine Management System",
+        "languages": "CPP",
+        "platform": "YouTube",
+        "duration": "00:13:47",
+        "youtubeLink": "https://youtu.be/Ve5wrjvDspw"
     }
+
 
 ]
