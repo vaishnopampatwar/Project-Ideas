@@ -187,6 +187,15 @@
         "platform": "YouTube",
         "duration": "0:24:00",
         "youtubeLink": "https://youtu.be/GTWrWM1UsnA"
+    },
+    
+    {
+        "id": 22,
+        "projectName": "Build your first App in React Native in under 2 hours [ Tutorial for beginners ]",
+        "languages": "React Native",
+        "platform": "YouTube",
+        "duration": "1:51:55",
+        "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
     }
 
 ]
