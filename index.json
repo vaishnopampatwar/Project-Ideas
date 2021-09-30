@@ -221,7 +221,15 @@
         "duration": "4:31",
         "youtubeLink": "https://youtu.be/at7rpdT8FeI"
 
-    }
+    },
+    {
+        "id": 25,
+        "projectName": "Calculator",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "00:38:19",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
     
 
 
