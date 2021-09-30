@@ -196,6 +196,14 @@
         "platform": "YouTube",
         "duration": "1:51:55",
         "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
+    },
+    {
+        "id": 23,
+        "projectName": "Make a Clock using Python",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "4:31",
+        "youtubeLink": "https://youtu.be/at7rpdT8FeI"
     }
 
 ]
