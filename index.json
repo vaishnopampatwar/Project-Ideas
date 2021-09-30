@@ -30,6 +30,169 @@
         "duration": "14:21",
         "codeLink": "https://www.campcodes.com/projects/php/online-parking-management-system-in-php-mysql-free-download/",
         "source": "https://youtu.be/KTzZNPzFmfs"
+    },
+    
+    {
+        "id": 4,
+        "projectName": "Notes App",
+        "languages": "React, CSS",
+        "platform": "Youtube",
+        "duration": "1:25:00",
+        "youtubeLink": "https://youtu.be/8KB3DHI-QbM"
+    },
+
+    {
+        "id": 5,
+        "projectName": "Bank Management System",
+        "languages": "C++",
+        "platform": "YouTube",
+        "duration": "36:29:00",
+        "youtubeLink": "https://youtu.be/6OSVutwm_Uk"
+    },
+
+    {
+
+        "id": 6,
+        "projectName": "Making Flappy Bird Game",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "2:07:51",
+        "youtubeLink": "https://youtu.be/itB6VsP5UnA"
+    },
+
+    {
+        "id": 7,
+        "projectName": "College Library Website",
+        "languages": "JavaScript",
+        "platform": "YouTube",
+        "duration": "1:01:29",
+        "youtubelink": "https://youtu.be/l6i8RDrhcqM"
+    },
+
+    {
+        "id": 8,
+        "projectName": "Gym Website",
+        "languages": "HTML5, CSS3",
+        "platform": "YouTube",
+        "duration": "00:53:46",
+        "youtubeLink": "https://youtu.be/Sj5NX_br5WY"
+    },
+
+    {
+        "id": 9,
+        "projectName": "Create a Responsive Food/Restaurant Website",
+        "languages": "HTML, CSS, Javascript",
+        "platform": "YouTube",
+        "duration": "00:48:18",
+        "youtubeLink": "https://youtu.be/bLSPJ-WzdqE"
+    },
+
+    {
+        "id": 10,
+        "ProjectName": "Making Weather App in Android Studio",
+        "languages": "java",
+        "platform": "YouTube",
+        "duration": "01:12:53",
+        "youtubeLink": "https://youtu.be/q7NF-2gtfEU"
+    },
+
+    {
+        "id": 11,
+        "projectName": "Making Inshort Clone | MERN Stack Project",
+        "languages": "React, Node, Express, MongoDB",
+        "platform": "YouTube",
+        "duration": "02:10:20",
+        "youtubeLink": "https://youtu.be/sVoQs1rZkpo"
+    },
+
+    {
+        "id": 12,
+        "projectName": "Creating an Online Chess Game",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "11:55:00",
+        "youtubeLink": "https://youtu.be/HvjsMrR51lg"
+    },
+
+    {
+        "id": 13,
+        "projectName": "Electricity Billing System",
+        "languages": "Core Java",
+        "platform": "YouTube",
+        "duration": "1:47:44",
+        "youtubeLink": "https://youtu.be/iL_5MhKSSN0"
+    },
+
+    {
+        "id": 14,
+        "projectName": "Airline Management System",
+        "languages": "Core Java",
+        "platform": "YouTube",
+        "duration": "1:12:12",
+        "youtubeLink": "https://youtu.be/UbIIFLsEeiM"
+    },
+
+    {
+        "id": 15,
+        "projectName": "Quiz App",
+        "languages": "React",
+        "platform": "YouTube",
+        "duration": "00:12:31",
+        "youtubeLink": "https://youtu.be/Lya-qYiDqIA"
+    },
+
+    {
+        "id": 16,
+        "projectName": "Buil an AI- Powered Voice Assistent Flutter Radio App | Android | IOS | Web ",
+        "languages": "Dart",
+        "platform": "YouTube",
+        "duration": "01:57:31",
+        "youtubeLink": "https://youtu.be/p4xh7zTt6i0"
+    },
+
+    {
+        "id": 17,
+        "projectName": "Making Hospital Management System",
+        "languages": "Java",
+        "platform": "YouTube",
+        "duration": "02:13:12",
+        "youtubeLink": "https://youtu.be/LaOpvTj-Kcc"
+    },
+
+    {
+        "id": 18,
+        "projectName": "Employee Management System",
+        "languages": "Core Java",
+        "platform": "YouTube",
+        "duration": "1:35:21",
+        "youtubeLink": "https://youtu.be/zOeFMWDQ-gU"
+    },
+
+    {
+        "id": 19,
+        "projectName": "Meal Management System for Mess",
+        "languages": "C++",
+        "platform": "YouTube",
+        "duration": "00:42:31",
+        "youtubeLink": "https://youtu.be/UDLDbyXctHs"
+    },
+
+    {
+        "id": 20,
+        "projectName": "Making E-Shopping Website",
+        "languages": "Asp.Net",
+        "platform": "YouTube",
+        "duration": "02:8:40",
+        "youtubeLink": "https://youtu.be/FuyRWWVx9Ig"
+    },
+
+    {
+        "id": 21,
+        "projectName": "Tic Tac Toe",
+        "languages": "C++",
+        "platform": "YouTube",
+        "duration": "0:24:00",
+        "youtubeLink": "https://youtu.be/GTWrWM1UsnA"
     }
 
 
