@@ -196,17 +196,25 @@
         "platform": "YouTube",
         "duration": "1:51:55",
         "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
-    },
-
-     {
+    },    
+    {
         "id": 25,
         "projectName": "Vaccine Management System",
         "languages": "CPP",
         "platform": "YouTube",
         "duration": "00:13:47",
         "youtubeLink": "https://youtu.be/Ve5wrjvDs"
+    },
     {
         "id": 23,
+        "projectName": "Build A Calculator With JavaScript Tutorial",
+        "languages": "JavaScript",
+        "platform": "YouTube",
+        "duration": "38:49",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
+    {
+        "id": 24,
         "projectName": "Make a Clock using Python",
         "languages": "Python",
         "platform": "YouTube",
@@ -214,6 +222,7 @@
         "youtubeLink": "https://youtu.be/at7rpdT8FeI"
 
     }
+    
 
 
 ]
